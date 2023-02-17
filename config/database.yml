@@ -1,0 +1,4 @@
+type: mongodb
+version: 6.0
+connection_string: xxxxxx
+shards: non

@@ -1,0 +1,1 @@
+Here're all the deployment scripts and terraforms. we can support local, k8s, AWS, Azure and GCP

@@ -1,0 +1,1 @@
+glocal configuration for service type, size, data, and more
